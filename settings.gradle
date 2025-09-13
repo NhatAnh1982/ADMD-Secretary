@@ -1,0 +1,2 @@
+rootProject.name = "AI-Secretary-Android"
+include ':app'
